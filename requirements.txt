@@ -1,0 +1,7 @@
+transformers==4.39.0.dev0
+llama-cpp-python==0.2.56
+accelerate==0.28.0
+Flask==3.0.1
+python-dotenv==1.0.1
+ctransformers==0.2.27
+langchain==0.1.12
